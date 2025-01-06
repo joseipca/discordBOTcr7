@@ -40,7 +40,9 @@ client.on('messageCreate', async message => {
         'cunt', 'bolas', 'testiculos', 'morcela',
         'doki', '?', 'merda', 'preto', '2550c01', 'Pong!',
         "fds", "burro", "diz", "entao", "cala-te", "calate",
-        "wtf",
+        "wtf", "pretas", "lol", "rabo", "cu", "menor",
+        "caralho", "burro", "rape", "pascal", "fodeu", 
+        "foda", "merda", 
     ];
 
     const responses = [
@@ -54,6 +56,9 @@ client.on('messageCreate', async message => {
         "No one cares",
         "Calado eras poeta",
         "És incrível, incrivelmente burro",
+        "És um preto de merda",
+        "Quem diz é quem é",
+        "Burro do caralho",
         "Porque não pegas nisso que disseste, divides em sílabas métricas, pegas em cada uma das letras e as enfias pelo cu acima?"
     ];
 
@@ -73,7 +78,14 @@ client.on('messageCreate', async message => {
         "https://media.discordapp.net/attachments/800666369901068329/1283449794517405878/y38Ny-.gif?ex=677ca004&is=677b4e84&hm=c325d0ffd87a1305cc38fea72218952205ace18d97bfe363c6e922d222bf0487&=&width=640&height=360",
         "https://media.discordapp.net/attachments/1265352346876121209/1265703175802064906/ezgif.com-crop.gif?ex=677ca9b0&is=677b5830&hm=d73245141c7de3296b4bfb45144024eaafba0f15db3517d7582b9fcc1fce6d0d&=&width=934&height=744",
         "https://media.discordapp.net/attachments/384483439308701696/1324516753912631370/giphy.gif?ex=677d0d1a&is=677bbb9a&hm=d8f63bdf31e76925a540c17b69348877d40372cbae80a6b88e15d72f48cf4d5e&=&width=900&height=900",
-        
+        "https://tenor.com/view/portugal-gif-25623724",
+        "https://tenor.com/view/lebron-lebron-james-diddy-diddy-party-sean-combs-gif-4104351489513445035",
+        "https://media.discordapp.net/attachments/1056644997514006619/1144046750731092038/attachment.gif?ex=677d0c50&is=677bbad0&hm=01d7a1642c2c0e28a309ab46df8eeee6de4639527089b82f505d9aab1ecf06f5&",
+        "https://tenor.com/view/winking-jesus-smile-happy-whos-your-daddy-gif-15914158",
+        "https://tenor.com/view/el-circo-whatsapp-llamada-xd-gif-27214359",
+        "https://media.giphy.com/media/LVTUiWRm2uFe0an4YP/giphy.gif"
+
+
     ];
 
    // Check if any trigger word is present in the message
