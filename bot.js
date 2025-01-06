@@ -42,7 +42,8 @@ client.on('messageCreate', async message => {
         "fds", "burro", "diz", "entao", "cala-te", "calate",
         "wtf", "pretas", "lol", "rabo", "cu", "menor",
         "caralho", "burro", "rape", "pascal", "fodeu", 
-        "foda", "merda", 
+        "foda", "merda", "ping", "focinho", "tromba", "trombas",
+        
     ];
 
     const responses = [
@@ -83,7 +84,8 @@ client.on('messageCreate', async message => {
         "https://media.discordapp.net/attachments/1056644997514006619/1144046750731092038/attachment.gif?ex=677d0c50&is=677bbad0&hm=01d7a1642c2c0e28a309ab46df8eeee6de4639527089b82f505d9aab1ecf06f5&",
         "https://tenor.com/view/winking-jesus-smile-happy-whos-your-daddy-gif-15914158",
         "https://tenor.com/view/el-circo-whatsapp-llamada-xd-gif-27214359",
-        "https://media.giphy.com/media/LVTUiWRm2uFe0an4YP/giphy.gif"
+        "https://media.discordapp.net/attachments/1098009267967107133/1137217624644792400/FB0641C3-C53E-4DA4-BDE9-B31470313F06.gif?ex=677c97f2&is=677b4672&hm=96ad245cda112832994fd64cba4a11dddfec138addc390fc2a444e3cf941b1a3&",
+        
 
 
     ];
