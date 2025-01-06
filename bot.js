@@ -43,7 +43,7 @@ client.on('messageCreate', async message => {
         "wtf", "pretas", "lol", "rabo", "cu", "menor",
         "caralho", "burro", "rape", "pascal", "fodeu", 
         "foda", "merda", "ping", "focinho", "tromba", "trombas",
-        
+        "macaco", "putas", "puta", "gayzolas", "cornos", "cornudo",
     ];
 
     const responses = [
@@ -65,7 +65,7 @@ client.on('messageCreate', async message => {
 
     // GIF responses
     const gifResponses = [
-        "https://tenor.com/view/race-car-peugeot-meme-racist-mode-gif-23410462edia.giphy.com/media/d3mlE7uhX8KFgEmY/source.gif",
+        "https://tenor.com//race-car-peugeot-meme-racist-mode-gif-23410462edia.giphy.com/media/d3mlE7uhX8KFgEmY/source.gif",
         "https://cdn.discordapp.com/attachments/845784297109323798/1245902841290428488/caption.gif?ex=677c7af1&is=677b2971&hm=973c1c0a4cd305813d0950c34eb1426378977a425a89647a73932fbc70ed3e3a&",
         "https://media.discordapp.net/attachments/1104200487131160636/1106678200123269182/63a987e7-ab42-4ed3-8857-527603dcf57d-1.gif?ex=677ce4a3&is=677b9323&hm=9c76aba0411c8f80a5221c145511d00fa32a2428a6a3438f753055b43af75a01&=&width=480&height=480",
         "https://media.discordapp.net/attachments/950852496669167616/964322085038063676/caption.gif?ex=677c75ed&is=677b246d&hm=f8c99a7025fe2da24633933515c71b1422bc22a44f6c6c386244369ee7ccfd25&=&width=456&height=908",
