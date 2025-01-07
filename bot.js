@@ -63,13 +63,14 @@ client.on('messageCreate', async message => {
         "És um preto de merda",
         "Quem diz é quem é",
         "Burro do caralho",
+        "Queres fazer algo útil? Cala-te",
+        "Wow parabéns, és o maior. Que ser humano incrível. O pináculo do seu espécime. Melhor mesmo é só se te calares",
         "Porque não pegas nisso que disseste, divides em sílabas métricas, pegas em cada uma das letras e as enfias pelo cu acima?"
     ];
 
     // GIF responses
     const gifResponses = [
         "https://media.discordapp.net/attachments/922208501684645938/1054200520413302824/caption.gif?ex=677dcd3e&is=677c7bbe&hm=cceb36c58e17e279f0e2bdd195767c85c68c67050ea2322e78c82be11a9088dc&",
-        "https://tenor.com//race-car-peugeot-meme-racist-mode-gif-23410462edia.giphy.com/media/d3mlE7uhX8KFgEmY/source.gif",
         "https://cdn.discordapp.com/attachments/845784297109323798/1245902841290428488/caption.gif?ex=677c7af1&is=677b2971&hm=973c1c0a4cd305813d0950c34eb1426378977a425a89647a73932fbc70ed3e3a&",
         "https://media.discordapp.net/attachments/1104200487131160636/1106678200123269182/63a987e7-ab42-4ed3-8857-527603dcf57d-1.gif?ex=677ce4a3&is=677b9323&hm=9c76aba0411c8f80a5221c145511d00fa32a2428a6a3438f753055b43af75a01&=&width=480&height=480",
         "https://media.discordapp.net/attachments/950852496669167616/964322085038063676/caption.gif?ex=677c75ed&is=677b246d&hm=f8c99a7025fe2da24633933515c71b1422bc22a44f6c6c386244369ee7ccfd25&=&width=456&height=908",
