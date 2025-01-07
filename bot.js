@@ -13,6 +13,19 @@ const commands = [
 
 const rest = new REST({ version: '10' }).setToken(process.env.BOT_TOKEN);
 
+const express = require('express');
+const app = express();
+const port = process.env.PORT || 4670;
+
+// Basic route to prevent Render from timing out
+app.get('/', (req, res) => {
+  res.send('Bot is running!');
+});
+
+app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`);
+});
+
 client.once('ready', async () => {
     try {
         console.log('Registrando comandos de barra globalmente...');
