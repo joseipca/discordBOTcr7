@@ -4,6 +4,6 @@
     "dotenv": "^16.4.7"
   },
   "scripts": {
-    "start": "node bot.js"
+    "start": "node -r dotenv/config bot.js"
   }
 }
