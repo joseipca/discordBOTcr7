@@ -44,6 +44,9 @@ client.on('messageCreate', async message => {
         "caralho", "burro", "rape", "pascal", "fodeu", 
         "foda", "merda", "ping", "focinho", "tromba", "trombas",
         "macaco", "putas", "puta", "gayzolas", "cornos", "cornudo",
+        "heil", "ronaldo", "cristiano", "niggas", "gordo", "fat",
+        "gordos", "gordas", "gorda", "goat", "cancer", "cancro",
+        "2550c01", 
     ];
 
     const responses = [
@@ -65,6 +68,7 @@ client.on('messageCreate', async message => {
 
     // GIF responses
     const gifResponses = [
+        "https://media.discordapp.net/attachments/922208501684645938/1054200520413302824/caption.gif?ex=677dcd3e&is=677c7bbe&hm=cceb36c58e17e279f0e2bdd195767c85c68c67050ea2322e78c82be11a9088dc&",
         "https://tenor.com//race-car-peugeot-meme-racist-mode-gif-23410462edia.giphy.com/media/d3mlE7uhX8KFgEmY/source.gif",
         "https://cdn.discordapp.com/attachments/845784297109323798/1245902841290428488/caption.gif?ex=677c7af1&is=677b2971&hm=973c1c0a4cd305813d0950c34eb1426378977a425a89647a73932fbc70ed3e3a&",
         "https://media.discordapp.net/attachments/1104200487131160636/1106678200123269182/63a987e7-ab42-4ed3-8857-527603dcf57d-1.gif?ex=677ce4a3&is=677b9323&hm=9c76aba0411c8f80a5221c145511d00fa32a2428a6a3438f753055b43af75a01&=&width=480&height=480",
@@ -85,8 +89,8 @@ client.on('messageCreate', async message => {
         "https://tenor.com/view/winking-jesus-smile-happy-whos-your-daddy-gif-15914158",
         "https://tenor.com/view/el-circo-whatsapp-llamada-xd-gif-27214359",
         "https://media.discordapp.net/attachments/1098009267967107133/1137217624644792400/FB0641C3-C53E-4DA4-BDE9-B31470313F06.gif?ex=677c97f2&is=677b4672&hm=96ad245cda112832994fd64cba4a11dddfec138addc390fc2a444e3cf941b1a3&",
-        
-
+        "https://media.discordapp.net/attachments/880962277619138614/1051217320074285156/togif.gif?ex=677d7eeb&is=677c2d6b&hm=fa8dc22d02c8f674dda0db65aa86f6b60862ba180ded8a2184c1e96cddd28520&",
+    
 
     ];
 
