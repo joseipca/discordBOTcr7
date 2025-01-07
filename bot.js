@@ -120,4 +120,8 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
+client.once('ready', () => {
+    console.log('Bot está online!');
+});
+
 client.login(process.env.BOT_TOKEN);
