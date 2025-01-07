@@ -46,7 +46,7 @@ client.on('messageCreate', async message => {
         "macaco", "putas", "puta", "gayzolas", "cornos", "cornudo",
         "heil", "ronaldo", "cristiano", "niggas", "gordo", "fat",
         "gordos", "gordas", "gorda", "goat", "cancer", "cancro",
-        "2550c01", 
+        "2550c01", "boda"
     ];
 
     const responses = [
