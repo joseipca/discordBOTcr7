@@ -59,7 +59,11 @@ client.on('messageCreate', async message => {
         "macaco", "putas", "puta", "gayzolas", "cornos", "cornudo",
         "heil", "ronaldo", "cristiano", "niggas", "gordo", "fat",
         "gordos", "gordas", "gorda", "goat", "cancer", "cancro",
-        "2550c01", "boda"
+        "2550c01", "boda", "messi", "fdp", "cigano", "ciganos", 
+        "cigana", "ciganas", "indianos", "indiano", "indianas",
+        "António Costa", "Antonio Costa", "Jose Socrates", "José Sócrates",
+        "Anselmo Ralph", "mongloide", "monglóide", "Castelo Branco",
+        "cs2", "fortnite", "valorant"
     ];
 
     const responses = [
